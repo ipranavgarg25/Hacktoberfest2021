@@ -1,6 +1,4 @@
 # Hacktoberfest 2021
 ![hacktoberfest2021](https://user-images.githubusercontent.com/78488673/137143376-6d37feea-f5a2-40d5-a1ff-a5f479c5306b.png)
-https://img.shields.io/github/forks/Mehran-Firdous/Hacktoberfest2021?color=red&style=social
-https://img.shields.io/github/followers/Mehran-Firdous?style=social
-https://img.shields.io/github/stars/Mehran-Firdous/Hacktoberfest2021?color=orange&style=for-the-badge
+https://img.shields.io/github/forks/Mehran-Firdous/Hacktoberfest2021?style=social
 

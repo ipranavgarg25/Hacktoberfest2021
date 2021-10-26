@@ -4,7 +4,7 @@
 # UPLOADING YOUR PROJECTS:
 You guys can upload any type of project in this repo using **C++** , **JAVA** , **WebDev projects** anything that you are good in.
 # HACKTOBERFEST:
-Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
+#hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 # 1. Register Here:
 https://hacktoberfest.digitalocean.com/
 # 2. Add a Program in any Language you like:
